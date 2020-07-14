@@ -1,0 +1,3 @@
+Application Version: ${datahub.version}
+Spring Boot Version: ${spring-boot.version}
+DATAHUB
